@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MyBook</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="ContenDesc">Profile Photo</string>
+    <string name="name">Della Fitria Lestari</string>
+    <string name="email">dellafitrialestari777@gmail.com</string>
+    <string name="Insta">della.lesta</string>
+    <string name="Title2">Tentang Saya</string>
+    <string name="Title3">Sosial Media</string>
+    <string name="Title">Profile</string>
+    <string name="Keterangan">Halo! perkenalkan, saya Della Fitria Lestari. Saya berasal dari Sragen, Jawa Tengah. Saat ini, saya adalah mahasiswa di Universitas Muhammadiyah Surakarta dan sedang mengambil program studi teknik informatika. Saat ini, saya sudah berada di semester 5 studi saya."</string>
+    <string name="TitleB">Book Information</string>
+    <string name="DescBook">Deskripsi</string>
+    <string name="DetailBook">Detail</string>
+    <string name="jmlHal">Jumlah Halaman</string>
+    <string name="ISBN">ISBN</string>
+    <string name="penerbit">Penerbit</string>
+    <string name="tglTerbit">Tanggal Terbit</string>
+    <string name="share1">SHARE</string>
+    <string name="share2">Share with...</string>
+    <string name="txtShare1">Ayo Baca Buku </string>
+    <string name="txtShare2">Karya dari </string>
+    <string name="search">Search..</string>
+    <string name="titleAbout">About Me</string>
+    <string name="back">Back</string>
+</resources>

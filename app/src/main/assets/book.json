@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "name": "Merawat Luka Batin",
+    "penulis": "Dr. Jiemi Ardian, Sp.K.J.",
+    "descHalaman": 326,
+    "descPenerbit": "Gramedia Pustaka Utama",
+    "descISBN": "9786020661520",
+    "tanggal": "24 Mei 2022",
+    "photo": "@drawable/merawat_luka_batin",
+    "descDetail": "Bibliografi : halaman 305-310 ; “You are what you think,” begitu kata banyak orang. Padahal, ketika saya berpikir saya kaya, uang dalam rekening saya tidak otomatis bertambah. Akan lebih tepat jika kutipan ini sedikit diubah menjadi “You are how you think”, karena perasaan dan diri kita bergantung pada bagaimana cara kita berpikir. Buku ini berisi tentang proses berpikir, bukan sekadar berpikir dengan positif. Saat perasaan sedang tidak baik-baik saja, terlebih pada keadaan depresi, proses pikir kita biasanya ikut andil dalam memperburuk keadaan. Namun, sulit bagi kita untuk menyadari proses berpikir yang bermasalah ini karena kita menganggapnya sebagai cara kita melihat realitas. Menyadari pikiran yang keliru saat hal itu muncul bukanlah hal yang mudah. Buku ini memuat beberapa pola untuk membentuk cara berpikir yang tepat. Tak hanya orang-orang yang sedang merawat luka batin, para caregiver dan penyintas depresi juga bisa menarik manfaat dari buku ini. Semoga buku ini juga bisa menghapus stigma tentang depresi dan menunjukkan bahwa gangguan kejiwaan, termasuk depresi, bisa dialami siapa saja."
+  },
+  {
+    "id": 2,
+    "name": "Alasan untuk Tetap Hidup",
+    "penulis": "Matt Haig",
+    "descHalaman": 266,
+    "descPenerbit": "Gramedia Pustaka Utama",
+    "descISBN": "9786020648538",
+    "tanggal": "07 Januari 2022",
+    "photo": "@drawable/alasan_untuk_hidup",
+    "descDetail": "Apa rasanya menjadi orang yang mengalami gangguan kecemasan atau depresi? Ada dorongan yang membanjiri perasaan dan pikiran mereka sampai-sampai tubuh fisiknya pun ikut sakit. Bahkan, tak sedikit dari mereka yang akhirnya memutuskan untuk bunuh diri."
+  },
+  {
+    "id": 3,
+    "name": "Love for Imperfect Things",
+    "penulis": "Haemin Sunim",
+    "descHalaman": 272,
+    "descPenerbit": "Penguin Life",
+    "descISBN": "9780241331125",
+    "tanggal": "13 Februari 2022",
+    "photo": "@drawable/love_for_imperfect_things",
+    "descDetail": "Tidak ada yang sempurna di dunia ini, dan itu bukan alasan bagi kita untuk menghindari cinta kepada dunia, kepada sesama manusia, bahkan kepada diri sendiri. Lewat buku ini, guru Buddhis Haemin Sunim membagikan kisah pribadi dan pengalaman selama bertahun-tahun membantu sesama untuk mengajarkan kita seni merawat diri."
+  },
+  {
+    "id": 4,
+    "name": "The Book of Sloth Philosophy",
+    "penulis": "Jennifer McCartney",
+    "descHalaman": 188,
+    "descPenerbit": "Renebook",
+    "descISBN": "9786236083215",
+    "tanggal": "01 November 2022",
+    "photo": "@drawable/sloth_philosofy",
+    "descDetail": "Sebuah buku yang memberikan tips kehidupan dengan menerapkan filosofi dari hewan sloth ini. Sloth adalah hewan yang santai, penuh kehati-hatian, dan tak terburu-buru dalam menghadapi kegiatan hari-harinya. Filosofi sloth dipilih karena sloth merupakan hewan yang berhati-hati dalam memutuskan tindakannya. Sehingga manusia pun diharapkan bisa mengikuti gaya hidup dari hewan yang bijaksana ini. Selain berhati-hati, hewan yang terlihat lamban ini juga memiliki fokus yang baik. Sehingga, mereka memiliki kecenderungan untuk menjadi lebih produktif dalam merencanakan langkah-langkah mereka. Buku The Little Book of Sloth Philosophy ini merupakan buku yang bisa membantu pembacanya untuk memiliki pemikiran yang tenang dan bijaksana seperti sloth."
+  },
+  {
+    "id": 5,
+    "name": "What a Time to be Alone",
+    "penulis": "Chidera Eggerue",
+    "descHalaman": 192,
+    "descPenerbit": "Quadrille",
+    "descISBN": "9781787133143",
+    "tanggal": "07 Agustus 2018",
+    "photo": "@drawable/time_alone",
+    "descDetail": "In What A Time To Be Alone,The Slumflower will be your life guru, confidante and best friend. She’ll show you that being alone is not just okay: it’s just about the best freaking thing that’s ever happened to you. As she says, ‘You’re bad as hell and you were made with intention.’ It’s about time you realised. \\n\\Peppered with insightful Igbo proverbs from Chidera’s Nigerian mother and full of her own original artwork, What A Time To Be Alone will help you navigate the modern world. We can all decide our own fates and Chidera shows us how, using a three-part approach filled with sass, wisdom and charm."
+  },
+  {
+    "id": 6,
+    "name": "Sebuah Seni Untuk Bersikap Bodo Amat",
+    "penulis": "Mark Manson",
+    "descHalaman": 246,
+    "descPenerbit": "PT. Gramedia Widiasarana Indonesia (Grasindo)",
+    "descISBN": "9786024526986",
+    "tanggal": "01 Januari 2019",
+    "photo": "@drawable/sebuah_seni_untuk_bersikap_bodo_amat",
+    "descDetail": "Buku berjudul Sebuah Seni untuk Bersikap Bodo Amat (The Subtle Art of Not Giving a F*ck) ini adalah salah satu buku yang termasuk dalam jajaran buku self improvement yang populer. Bahkan menjadi salah satu global best seller yang ditulis oleh Mark Manson. Ini buku pertama Mark Manson yang menyuguhkan seni pengembangan diri yang dinilai sangat mewakili generasi ini. Buku ini membahas bagaimana kunci untuk menjalani hidup menjadi lebih kuat, lebih bahagia adalah dengan mengerjakan segala tantangan dengan lebih baik dan berhenti memaksa diri untuk menjadi “positif” di setiap saat. Buku ini memberikan perspektif yang berbeda daripada buku-buku lain yang bertemakan self improvement lainnya. Dalam buku ini, sang penulis berargumen bahwa manusia tidak sempurna dan terbatas. Buku ini mengajak kita untuk mengerti batasan-batasan diri dan menerimanya."
+  },
+  {
+    "id": 7,
+    "name": "Atomic Habits",
+    "penulis": "James Clear",
+    "descHalaman": 352,
+    "descPenerbit": "Gramedia Pustaka Utama",
+    "descISBN": "9786020633176",
+    "tanggal": "16 September 2019",
+    "photo": "@drawable/anatomic_habits",
+    "descDetail": "Melalui Atomics Habits James Clear memberikan paparan teori bahwa kebiasaan remeh yang dilakukan setiap hari dapat menghasilkan sesuatu yang luar biasa. Kegiatan-kegiatan seperti bangun lebih cepat lima menit atau berolahraga ringan setiap hari dapat membentuk kebiasaan baik dan menghentikan kebiasaan buruk. Oleh karena itu, kebiasaan-kebiasaan remeh tersebut dikenal sebagai atomic habits atau kebiasaan atom. Clear menjelaskan bahwa kebiasaan buruk yang terus berulah terjadi bukan karena seseorang tidak ingin berubah, melainkan karena sistem perubahan yang salah. Ketika sistem perubahan dilakukan secara benar, maka individu dapat memperoleh ke tingkat produktivitas yang baru. Paparan motivasi dalam Atomic Habits tidak hanya didasari dari rangkaian kata penyemangat, melainkan lewat teori-teori ilmiah. Melansir dari Goodreads, sang penulis dikenal dengan kemampuannya menyaring topik kompleks menjadi perilaku sederhana yang mudah diterapkan. Clear juga mampu memanfaatkan ide-ide dari ilmu biologi, psikologi, hingga saraf untuk membuat panduan yang mudah dipahami dan mudah dipraktikan menjadi kebiasaan baik. Selain itu, buku Atomic Habits juga dilengkapi dengan kisah inspiratif dan menghibur dari para peraih medali emas olimpiade, CEO perusahaan besar, seniman, ilmuwan, hingga komedian."
+  },
+  {
+    "id": 8,
+    "name": "The Psychology of money",
+    "penulis": "Morgan Housel",
+    "descHalaman": 262,
+    "descPenerbit": "Baca",
+    "descISBN": "9786026486578",
+    "tanggal": "21 desember 2021",
+    "photo": "@drawable/psychology_of_money",
+    "descDetail": "Kesuksesan dalam mengelola uang tidak selalu tentang apa yang Anda ketahui. Ini tentang bagaimana Anda berperilaku. Dan perilaku sulit untuk diajarkan, bahkan kepada orang yang sangat pintar sekalipun. Seorang genius yang kehilangan kendali atas emosinya bisa mengalami bencana keuangan. Sebaliknya, orang biasa tanpa pendidikan finansial bisa kaya jika mereka punya sejumlah keahlian terkait perilaku yang tidak berhubungan dengan ukuran kecerdasan formal. \\n\\Uang, investasi, keuangan pribadi, dan keputusan bisnis biasanya diajarkan sebagai bidang berbasis matematika dengan data dan rumus memberi tahu kita apa yang harus dilakukan. Namun, di dunia nyata orang tidak membuat keputusan finansial di spreadsheet. Mereka membuatnya di meja makan, atau di ruang rapat, di mana sejarah pribadi, pandangan unik Anda tentang dunia, ego, kebanggaan, pemasaran, dan berbagai insentif bercampur. Dalam The Psychology of Money, penulis pemenang penghargaan, Morgan Housel membagikan 19 cerita pendek yang mengeksplorasi cara-cara aneh orang berpikir tentang uang dan mengajari Anda cara memahami salah satu topik terpenting dalam hidup dengan lebih baik. Morgan membuat cerita pendek tersebut dengan menggunakan sudut pandang perilaku manusia sehingga setelah selesai membaca buku ini, pembaca akan menemukan sudut pandang baru dalam menyikapi duit yang dimiliki. Nah, supaya kamu mengetahui cara-cara untuk mengelola keuangan dengan baik, yuk baca buku The Psychology of Money."
+  },
+  {
+    "id": 9,
+    "name": "Folosofi Teras",
+    "penulis": "Henry Manampiring",
+    "descHalaman": 346,
+    "descPenerbit": "Kompas Penerbit Buku",
+    "descISBN": "9786024125189",
+    "tanggal": "19 Desember 2018",
+    "photo": "@drawable/filosofi_teras",
+    "descDetail": "Lebih dari 2.000 tahun lalu, sebuah mazhab filsafat menemukan akar masalah dan juga solusi dari banyak emosi negatif. Stoisisme, atau Filosofi Teras, adalah filsafat Yunani-Romawi kuno yang bisa membantu kita mengatasi emosi negatif dan menghasilkan mental yang tangguh dalam menghadapi naik-turunnya kehidupan. Jauh dari kesan filsafat sebagai topik berat dan mengawang-awang, Filosofi Teras justru bersifat praktis dan relevan dengan kehidupan Generasi Milenial dan Gen-Z masa kini."
+  },
+  {
+    "id": 10,
+    "name": "Bicara Itu Ada Seninya",
+    "penulis": "Oh Su Hyang",
+    "descHalaman": 238,
+    "descPenerbit": "Bhuana Ilmu Populer(BIP) Kelompok Gramedia",
+    "descISBN": "9786230000000",
+    "tanggal": "01 April 2018",
+    "photo": "@drawable/bicara_itu_ada_seninya",
+    "descDetail": "Ketika komunikasi menjadi hal yang penting untuk bersaing, pakar komunikasi, Oh Su Hyang mengeluarkan buku yang sangat berarti. Selain berisi tentang pengalaman peningkatan diri, buku ini juga memuat berbagai konten mengenai teknik komunikasi, persuasi, dan negosiasi. Lalu bagaimana cara berbicara yang baik? Apakah berbicara dengan artikulasi yang jelas? Atau berbicara tanpa mengambil tarikan napas? Tidak! Sebuah ucapan yang bisa disebut baik adalah yang bisa menggetarkan hati. Ucapan seorang juara memiliki daya tarik tersendiri. Ucapan pemandu acara memiliki kemampuan menghidupkan suasana dan kekuatan kalimatnya yang terus terang. Anda harus pandai berbicara untuk menunjukkan diri Anda kepada lawan bicara dalam kehidupan sosial. Orang yang berbicara dengan mahir akan menjadi lebih maju daripada yang lainnya. Untuk mencapai tujuan komunikasi, persuasi, dan negosiasi, Anda harus mengetahui metode komunikasi yang efisien. Buku ini dijabarkan agar dapat dimengerti oleh siapapun. Terdapat banyak bagian menarik dari orang-orang terkenal dan juga rahasia inti dari komunikasi. Jika Anda membacanya dengan runut, rasa percaya diri Anda untuk berbicara pun akan tumbuh dengan sendirinya."
+  },
+  {
+    "id": 11,
+    "name": "Seni Hidup Minimalis",
+    "penulis": "Francine Jay",
+    "descHalaman": 278,
+    "descPenerbit": "Gramedia",
+    "descISBN": "9786020398440",
+    "tanggal": "13 Agustus 2018",
+    "photo": "@drawable/hidup_minimalis",
+    "descDetail": "Pernahkah Anda menatap semua barang yang Anda beli, warisi, atau terima di rumah, dan merasa pengap, bukannya senang? Apakah Anda mengalami kesulitan mengatasi utang kartu kredit, bahkan tidak ingat lagi apa saja yang telah Anda beli? Pernahkah Anda berharap ada angin kencang yang meniup semua kekacauan di rumah agar Anda bisa memulai lembaran baru? \\n\\Buku ini bisa menjadi penyelamat Anda! Bagian pertama buku ini akan menumbuhkan pola pikir minimalis. Bagian kedua berisi metode STREAMLINE—satu dari sepuluh teknik paling efektif untuk menjaga rumah tetap rapi. Bagian ketiga mengajak Anda menggunakan langkah-langkah khusus untuk menangani setiap ruangan di rumah. Di bagian keempat, Anda akan melihat bagaimana konsep minimalis membuat kita lebih ramah lingkungan sehingga mampu melestarikan Bumi untuk generasi berikutnya."
+  }
+]
